@@ -1,8 +1,7 @@
-![Get WiFi Passwords With Python]("https://img.icons8.com/color/48/000000/python.png")
 
-# Get WiFi Passwords With Python
+# Get WiFi Passwords With Python 🐍<img src="https://img.icons8.com/color/48/000000/python.png"/>
 
-*This script searches windows for wifi passwords with python already known and displays them alongside the network name. It will not find passwords that your computer doesn't already know. This is useful for the occasions that you forget your WiFi password.*
+*This script searches windows <img src="https://img.icons8.com/color/48/000000/windows-10.png"/> for wifi passwords with python already known and displays them alongside the network name. It will not find passwords that your computer doesn't already know. This is useful for the occasions that you forget your WiFi password.*
 ---
 - Quick Background Idea
 - Getting the Passwords
